@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello, world. 🌎
+
+Apaixonado por tecnologia e em plena transição de carreira — apostando tudo nessa mudança.
+
+Fascinado pelo universo IA, estou construindo minha própria história unindo uma base sólida de lógica com a produtividade que essas ferramentas proporcionam. Acredito que o futuro pertence a quem souber combinar as duas coisas.
+
+Atuo no backend, trabalhando com:
+- Java;
 
 <!--
 **rizzoguilherme/rizzoguilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
