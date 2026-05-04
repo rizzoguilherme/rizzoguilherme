@@ -1,11 +1,10 @@
 ## Hello, world. 🌎
 
-Apaixonado por tecnologia e em plena transição de carreira — apostando tudo nessa mudança.
+Apaixonado por tecnologia e em plena transição de carreira — do militarismo à tecnologia.
 
 Fascinado pelo universo IA, estou construindo minha própria história unindo uma base sólida de lógica com a produtividade que essas ferramentas proporcionam. Acredito que o futuro pertence a quem souber combinar as duas coisas.
 
-Atuo no backend, trabalhando com:
-- Java;
+Atualmente estou aprimorando meus conhecimentos em backend, focado na linguagem Java.
 
 <!--
 **rizzoguilherme/rizzoguilherme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
